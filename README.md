@@ -13,3 +13,11 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/NahuelJimenez93/)](https://twitter.com/NahuelJimenez93/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-833AB4?style=flat-square&labelColor=833AB4&logo=instagram&logoColor=white&link=https://www.instagram.com/nahuel.jimenez/)](https://www.instagram.com/nahuel.jimenez/)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-4267B2?style=flat-square&labelColor=4267B2&logo=linkedin&logoColor=white&link=[www.linkedin.com/in/nahueljimenez/](https://www.linkedin.com/in/nahueljimenez/))](https://www.linkedin.com/in/nahueljimenez/)
+##
+<ul>
+  <li>Soy una persona con la capacidad de crecer, avanzar y desarrollarme de forma autodidacta, siempre indago a lo desconocido y no soy de quedarme con las dudas de nada.</li>
+  <li>Me gusta desenvolverme de forma práctica haciendo uso de mis capacidades en beneficio de la empresa, intentando cada día potenciar mi trabajo y el de
+mis compañeros.</li>
+  <li>Considerándome una persona respetuosa y tolerante, con habilidad para trabajar en óptimas condiciones frente a actividades grupales como
+individuales, capacidad de liderazgo y facilidad de aprendizaje</li>
+</ui>
