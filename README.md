@@ -75,7 +75,8 @@ Soy un desarrollador web de 30 años con experiencia en **React.js, Firebase, Ja
 - **[www.sacharfotovoltaica.com](http://www.sacharfotovoltaica.com/)** _(Empresa de energía solar)_  
 - **[impactostereo.com](https://impactostereo.com/)** _(Radio online de Cúcuta)_    
 - **[https://vientodevida.org/misproyectos/cursolocucion](https://vientodevida.org/misproyectos/cursolocucion)** _(Sistema de Inscripción para Curso de Radio y Locución)_    
-- **[https://impactostereo.com/transmedia/recorridos_nueva_alianza.html](https://impactostereo.com/transmedia/recorridos_nueva_alianza.html)** _(Recorrido Virtual de un Barrio de Invasión)_  
+- **[https://impactostereo.com/transmedia/recorridos_nueva_alianza.html](https://impactostereo.com/transmedia/recorridos_nueva_alianza.html)** _(Recorrido Virtual de un Barrio de Invasión)_
+- **[https://vientodevida.org/misproyectos/charladeparejas](https://vientodevida.org/misproyectos/charladeparejas)** _(Página promocional de evento sobre Charlas Psicológica de parejas)_  
 
 ### 🏘️ **Recorrido Virtual de un Barrio de Invasión**  
 - **Tecnologías:** JavaScript  
