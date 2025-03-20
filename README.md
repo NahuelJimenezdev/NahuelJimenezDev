@@ -16,12 +16,11 @@
 
 ## 🚀 Sobre Mí
 
-**Nahuel [Tu Apellido]**  
+**Nahuel Jímenez**  
 💻 **Desarrollador Web | React.js | Firebase | Frontend & Backend**  
 📍 **Ubicación:** Bogotá, Colombia  
-📧 **Email:** [Tu Correo]  
-📞 **Teléfono:** [Tu Número]  
-🔗 **Portafolio:** [Tu Portafolio o GitHub]  
+📧 **Email:** naedjima93@gmail.com  
+📞 **Teléfono:** (+54) 9 1166582695  
 
 ---
 
@@ -43,7 +42,7 @@ Soy un desarrollador web de 30 años con experiencia en **React.js, Firebase, Ja
 ## 💼 **Experiencia Profesional**  
 
 ### 🚀 **Desarrollador Web Frontend – Call Center en Bogotá**  
-📅 **Período:** [Año de inicio] - [Año de finalización]  
+📅 **Período:** Febrero 2021 - Diciembre 2021  
 📌 **Responsabilidades:**  
 ✔️ Desarrollo de interfaces visuales para clientes del call center.  
 ✔️ Trabajo en equipo con diseñadores para presentación de ideas a clientes.  
@@ -74,7 +73,9 @@ Soy un desarrollador web de 30 años con experiencia en **React.js, Firebase, Ja
 
 ### 🌐 **Sitios Web para Empresas**  
 - **[www.sacharfotovoltaica.com](http://www.sacharfotovoltaica.com/)** _(Empresa de energía solar)_  
-- **[impactostereo.com](https://impactostereo.com/)** _(Radio online de Cúcuta)_  
+- **[impactostereo.com](https://impactostereo.com/)** _(Radio online de Cúcuta)_    
+- **[https://vientodevida.org/misproyectos/cursolocucion](https://vientodevida.org/misproyectos/cursolocucion)** _(Sistema de Inscripción para Curso de Radio y Locución)_    
+- **[https://impactostereo.com/transmedia/recorridos_nueva_alianza.html](https://impactostereo.com/transmedia/recorridos_nueva_alianza.html)** _(Recorrido Virtual de un Barrio de Invasión)_  
 
 ### 🏘️ **Recorrido Virtual de un Barrio de Invasión**  
 - **Tecnologías:** JavaScript  
