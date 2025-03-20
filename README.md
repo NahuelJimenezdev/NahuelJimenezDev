@@ -95,7 +95,7 @@ Soy un desarrollador web de 30 años con experiencia en **React.js, Firebase, Ja
 
 ## 🌎 **Idiomas**  
 🗣️ **Español:** Nativo  
-🗣️ **Inglés:** Nivel Intermedio  
+🗣️ **Inglés:** Nivel Básico  
 
 ---
 
