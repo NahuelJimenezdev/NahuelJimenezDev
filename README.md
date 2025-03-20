@@ -8,8 +8,7 @@
 
 ![https://github.com/NahuelJimenezdev](https://github.com/NahuelJimenezdev/NahuelJimenezDev/blob/main/bannerGithub.png)
 
-# ![https://github.com/NahuelJimenezdev](https://github.com/NahuelJimenezdev/NahuelJimenezDev/blob/main/NahuelJimenezDev.jpg)  
-Bienvenidos a mi Perfil de GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+# ![https://github.com/NahuelJimenezdev](https://github.com/NahuelJimenezdev/NahuelJimenezDev/blob/main/NahuelJimenezDev.jpg) Bienvenidos a mi Perfil de GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naedjima93@gmail.com)](mailto:naedjima93@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=1166582695&text=Bienvenido,%20dejame%20tu%20mensaje%20y%20apenas%20lo%20lea%20te%20contestare)](https://api.whatsapp.com/send?phone=1166582695&text=Bienvenido,%20dejame%20tu%20mensaje%20y%20apenas%20lo%20lea%20te%20contestare)
